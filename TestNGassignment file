@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+   <parameter name="username" value="beingcharmi@gmail.com" />
+  <parameter name="password" value="Rc@30012001" />
+    <classes>
+      <class name="testNG_charmi_assignment.TestNGassignment"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
